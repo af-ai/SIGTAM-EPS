@@ -8,7 +8,7 @@ El presente documento define la visión y el alcance del sistema **SIGTAM-EPS**,
 
 ### 2.1 Declaración de visión
 
-> **SIGTAM-EPS** será una plataforma integrada que centralice y automatice la gestión de la atención médica, la administración de turnos presenciales y virtuales, y la dispensación de medicamentos tanto en farmacia como a domicilio para una EPS. El sistema proporcionará trazabilidad completa del proceso asistencial, optimizará los tiempos de espera mediante algoritmos de priorización clínica y notificaciones en tiempo real, y garantizará la entrega oportuna de medicamentos mediante la gestión inteligente de inventarios y rutas logísticas optimizadas.
+**SIGTAM-EPS** será una plataforma integrada que centralice y automatice la gestión de la atención médica, la administración de turnos presenciales y virtuales, y la dispensación de medicamentos tanto en farmacia como a domicilio para una EPS. El sistema proporcionará trazabilidad completa del proceso asistencial, optimizará los tiempos de espera mediante algoritmos de priorización clínica y notificaciones en tiempo real, y garantizará la entrega oportuna de medicamentos mediante la gestión inteligente de inventarios y rutas logísticas optimizadas.
 
 ### 2.2 Objetivo general
 
